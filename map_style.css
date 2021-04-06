@@ -1,5 +1,5 @@
-#panel_search_results{position: absolute;left: 0;width: 500px;top: 80px; height: calc(100% - 80px); overflow-y: scroll; background: rgba(245, 189, 0, 0.8);}
-#finder{background: green;}
+#panel_search_results{position: absolute;left: 0;width: 500px;top: 100px; height: calc(100% - 100px); overflow-y: scroll; background: rgba(245, 189, 0, 0.8);}
+#finder{background: rgba(245, 189, 0, 0.8); padding: 20px 0;}
 fieldset{border: none; padding: 0; border-radius: 0; margin: 0;}
 #finder_form{position: absolute;left: 0; top: 0; z-index: 1; width: 500px;}
 #vipcopyright{display: none;}
@@ -7,3 +7,5 @@ fieldset{border: none; padding: 0; border-radius: 0; margin: 0;}
 #map_canvas{height: 600px;}
 #finder_table thead{background: #fbf1cd;}
 #finder_table .finder_location{background: #fbf1cd; color: #512d6d; font-size: 10px; line-height: 1.2em;}
+#finder_disclaimer, legend{display: none;}
+html{overflow-x: hidden;}

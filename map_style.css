@@ -3,9 +3,9 @@
 fieldset{border: none; padding: 0; border-radius: 0; margin: 0;}
 #finder_form{position: absolute;left: 0; top: 0; z-index: 1; width: 500px;}
 #vipcopyright{display: none;}
-#finder_body, #finder_body #content{padding-bottom: 0; padding: 0;}
-#map_canvas{height: 600px;}
+#finder_body, #finder_body #content{padding-bottom: 0; padding: 0; height: 100%;}
+#map_canvas{height: 100vh;}
 #finder_table thead{background: #fbf1cd;}
 #finder_table .finder_location{background: #fbf1cd; color: #512d6d; font-size: 10px; line-height: 1.2em;}
 #finder_disclaimer, legend{display: none;}
-html{overflow-x: hidden;}
+html{overflow-x: hidden;} 

@@ -1,2 +1,3 @@
-#panel_search_results{position: absolute;left: 0;width: 500px;top: 0; height: 364px;overflow-y: scroll; background: rgba(245, 189, 0, 0.8);}
+#panel_search_results{position: absolute;left: 0;width: 500px;top: 0; height: 100%;overflow-y: scroll; background: rgba(245, 189, 0, 0.8);}
 #finder{background: green;}
+fieldset{border: none; padding: 0; border-radius: 0; margin: 0;}

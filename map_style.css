@@ -1,8 +1,5 @@
-#panel_search_results{position: absolute;left: 0;width: 500px;top: 0; height: 100%;overflow-y: scroll; background: rgba(245, 189, 0, 0.8);}
+#panel_search_results{position: absolute;left: 0;width: 500px;top: 80px; height: 100%;overflow-y: scroll; background: rgba(245, 189, 0, 0.8);}
 #finder{background: green;}
 fieldset{border: none; padding: 0; border-radius: 0; margin: 0;}
-#finder_form{position: absolute;
-left: 0;
-top: 0;
-z-index: 1;
-width: 500px;}
+#finder_form{position: absolute;left: 0; top: 0; z-index: 1; width: 500px;}
+#vipcopyright{display: none;}
